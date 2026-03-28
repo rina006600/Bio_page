@@ -1,22 +1,15 @@
 import { Profile } from '@/types/content';
 
 export const profile: Profile = {
-  name: 'Jiwoo Kim',
+  name: 'Rina Kim',
   title: 'Design Marketer',
-  positioning:
-    '브랜드의 메시지를 디자인하고, 콘텐츠로 전환까지 연결하는 디자인 마케터',
+  positioning: 'I design how brands are understood, not just how they look.',
   shortDescription:
-    'YouTube, Instagram, Threads, LinkedIn 기반의 콘텐츠 전략으로 브랜드 인지부터 리드 전환까지 설계합니다.',
+    '브랜드 포지셔닝부터 콘텐츠 전략, 전환 설계까지 연결해 브랜드가 명확하게 기억되고 선택되도록 돕습니다.',
   location: 'Seoul · Remote',
-  heroCtaLabel: '협업 제안',
-  heroCtaSubLabel: '프로젝트 상담',
-  keywords: [
-    'design marketer',
-    'personal branding',
-    'portfolio website',
-    'content strategy',
-    'branding'
-  ],
-  siteUrl: 'https://example.vercel.app',
+  heroCtaLabel: 'Start a Brand Project',
+  heroCtaSubLabel: '브랜드/캠페인 협업 문의',
+  keywords: ['design marketer', 'personal branding', 'portfolio website', 'content strategy', 'branding'],
+  siteUrl: 'https://rina-kim-portfolio.vercel.app',
   ogImage: '/opengraph-image'
 };

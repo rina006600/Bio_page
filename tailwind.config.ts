@@ -5,8 +5,15 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        ink: '#0F172A',
-        accent: '#0EA5E9'
+        bg: '#F7F3EE',
+        'bg-secondary': '#EFE7DD',
+        text: '#1A1A1A',
+        muted: '#6B625A',
+        accent: '#8B5E3C',
+        'accent-light': '#C8A98D'
+      },
+      boxShadow: {
+        soft: '0 12px 36px rgba(26, 26, 26, 0.08)'
       }
     }
   },

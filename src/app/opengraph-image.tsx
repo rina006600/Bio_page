@@ -19,12 +19,12 @@ export default function OpengraphImage() {
           display: 'flex',
           flexDirection: 'column',
           justifyContent: 'center',
-          background: 'linear-gradient(135deg, #0f172a, #0ea5e9)',
-          color: 'white',
+          background: 'linear-gradient(135deg, #F7F3EE 0%, #EFE7DD 55%, #E7D9C8 100%)',
+          color: '#1A1A1A',
           padding: '72px'
         }}
       >
-        <div style={{ fontSize: 34, opacity: 0.9 }}>{profile.title}</div>
+        <div style={{ fontSize: 34, color: '#6B625A' }}>{profile.title}</div>
         <div style={{ marginTop: 20, fontSize: 72, fontWeight: 700 }}>{profile.name}</div>
         <div style={{ marginTop: 24, fontSize: 32, maxWidth: 980, lineHeight: 1.3 }}>{profile.positioning}</div>
       </div>
