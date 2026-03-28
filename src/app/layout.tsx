@@ -5,8 +5,7 @@ import './globals.css';
 
 export async function generateMetadata(): Promise<Metadata> {
   const title = `${profile.name} | ${profile.title} Portfolio`;
-  const description =
-    'Design marketer personal branding page focused on portfolio, content strategy, and collaboration conversion.';
+  const description = 'Premium design marketer portfolio focused on brand positioning, content strategy, and conversion design.';
 
   return {
     metadataBase: new URL(profile.siteUrl),
