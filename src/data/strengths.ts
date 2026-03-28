@@ -2,23 +2,23 @@ import { Strength } from '@/types/content';
 
 export const strengths: Strength[] = [
   {
-    title: '콘텐츠 퍼널 설계',
-    outcome: 'SNS 유입 이후 랜딩 전환율 2.3배 개선',
-    proof: '콘텐츠 주제-CTA-랜딩 메시지를 한 흐름으로 재구성'
+    title: '퍼널 중심 콘텐츠 구조화',
+    outcome: '채널 유입 이후 랜딩 전환율을 2.3배까지 개선',
+    proof: '콘텐츠 주제, 메시지 우선순위, CTA를 구매 의사결정 단계에 맞춰 재설계해 이탈 구간을 줄였습니다.'
   },
   {
-    title: '브랜드 메시지 시각화',
-    outcome: '신규 캠페인 인지도 도달 180% 성장',
-    proof: '핵심 가치 기반의 디자인 시스템과 카피 프레임 정립'
+    title: '행동 유도형 브랜드 메시지 설계',
+    outcome: '신규 캠페인에서 브랜드 인지도 도달을 180% 확장',
+    proof: '핵심 가치 문장과 시각 언어를 통합해 “인지→관심→클릭” 흐름이 자연스럽게 이어지도록 실행했습니다.'
   },
   {
-    title: '멀티채널 운영 최적화',
-    outcome: 'YouTube/Instagram/Threads 채널 리드 월 120건 확보',
-    proof: '채널별 포맷 전략과 성과 리뷰 루프 자동화'
+    title: '멀티채널 운영 체계화',
+    outcome: 'YouTube·Instagram·Threads에서 월 평균 리드 120건 확보',
+    proof: '채널별 포맷 기준과 성과 리뷰 루프를 표준화해 실행 속도와 일관성을 동시에 높였습니다.'
   },
   {
-    title: '실험 중심 성장',
+    title: '실험 기반 전환 최적화',
     outcome: 'CTA 클릭률 평균 38% 상승',
-    proof: 'A/B 테스트로 헤드라인, 썸네일, CTA 카피 지속 개선'
+    proof: '헤드라인, 비주얼, 오퍼 카피를 A/B 테스트로 반복 검증해 성과가 나는 조합을 빠르게 확정했습니다.'
   }
 ];

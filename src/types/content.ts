@@ -15,6 +15,7 @@ export type QuickLink = {
   platform: string;
   url: string;
   handle: string;
+  description: string;
 };
 
 export type Strength = {
@@ -25,9 +26,10 @@ export type Strength = {
 
 export type Project = {
   title: string;
-  summary: string;
   role: string;
-  impact: string;
+  problem: string;
+  approach: string;
+  result: string;
   link?: string;
 };
 
@@ -36,6 +38,7 @@ export type ExperienceItem = {
   organization: string;
   role: string;
   highlight: string;
+  growth: string;
 };
 
 export type ContactConfig = {
