@@ -3,12 +3,12 @@ import { Profile } from '@/types/content';
 export const profile: Profile = {
   name: 'Rina Kim',
   title: 'Design Marketer',
-  positioning: 'I design how brands are understood, not just how they look.',
+  positioning: '디자인과 사용자 행동 데이터를 연결해, 브랜드 인지를 매출 기회로 전환하는 디자인 마케터입니다.',
   shortDescription:
-    '브랜드 포지셔닝부터 콘텐츠 전략, 전환 설계까지 연결해 브랜드가 명확하게 기억되고 선택되도록 돕습니다.',
+    '브랜드 전략, 콘텐츠 구조, 전환 UX를 하나의 실행 체계로 설계합니다. “예쁘다”에서 끝나는 디자인이 아니라, 유입·리드·전환까지 이어지는 성과 중심 프로젝트를 리드합니다.',
   location: 'Seoul · Remote',
-  heroCtaLabel: 'Start a Brand Project',
-  heroCtaSubLabel: '브랜드/캠페인 협업 문의',
+  heroCtaLabel: '프로젝트 상담하기',
+  heroCtaSubLabel: '평균 24시간 내 회신 · 전략 미팅 가능',
   keywords: ['design marketer', 'personal branding', 'portfolio website', 'content strategy', 'branding'],
   siteUrl: 'https://rina-kim-portfolio.vercel.app',
   ogImage: '/opengraph-image'
